@@ -1,1 +1,4 @@
-Build LLM from Scratch, a self-learning git
+# Build LLM from Scratch
+
+- Tokenization
+- 
